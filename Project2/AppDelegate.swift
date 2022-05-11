@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Project2
-//
-//  Created by Maxim M on 02.05.2022.
-//
-
 import UIKit
 
 @main
